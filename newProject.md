@@ -1,12 +1,12 @@
-# project
+# Project
   ## Contents
-  		-1heading,-2 heading, -3 heading
+  -1 chapter, -2 also chapter, -3 chapterish
   ## Summary
-  describy
+  This project is projected to project itself as a projection
   ## Installation
-  install it
+  install by doing things certain ways
   ## Usage
-  gdfsgfgs
+  use it wisely or foolishly
   ## Licenses
   MIT
   
