@@ -33,23 +33,23 @@ const questions = inquirer
       name: "description",
       type: "input",
       message:
-        "Please provide a brief overview description or mission statment for this project",
+        "Please provide a brief overview description or mission statment for this project:",
     },
     {
       name: "install",
       type: "input",
-      message: "Please provide installation instructions for your project",
+      message: "Please provide installation instructions for your project:",
     },
 
     {
       name: "usage",
       type: "input",
-      message: "Please provide instructions for using this application",
+      message: "Please provide instructions for using this application:",
     },
     {
       name: "license",
       type: "list",
-      message: "Please select the appropriate license for this project",
+      message: "Please select the appropriate license for this project:",
       choices: ["BSD 3"," BSD 2","MIT", "Apache 2.0", "None"],
     },
   ])

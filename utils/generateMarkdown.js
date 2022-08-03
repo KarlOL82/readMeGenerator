@@ -62,7 +62,7 @@ function generateMarkdown(answer) {
   ${answer.usage}
   ## License
   ${renderLicenseBadge(answer.license)}  
-  ${renderLicenseLink(answer.section)}
+  ${renderLicenseLink(answer.license)}
   ${renderLicenseSection(answer.license)}  
   `
 };

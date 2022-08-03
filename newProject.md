@@ -1,21 +1,21 @@
 
-  # Project
+  # Good Times
   
   ## Contact
   -k.com  
   -g.com
   ## Summary
-  Words
+  words
   ## Installation
-  Words
+  more words
   ## Usage
-  Words
+  other words
   ## License
-  ![License](https://img.shields.io/badge/license-MIT-green.svg)  
+  ![License](https://img.shields.io/badge/license-BSD%203-green.svg)  
+  https://opensource.org/licenses/BSD-3-Clause
   
-  
-  ## MIT
+  ## BSD 3
    
- "This application is using license MIT. 
+ "This application is using license BSD 3." 
     
   
