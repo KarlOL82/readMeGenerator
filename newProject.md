@@ -1,12 +1,15 @@
-# Project
-  ## Contents
-  -1 chapter, -2 also chapter, -3 chapterish
+
+  # Project
+  
+  ## Contact
+  -klinfeldt@gmail.com
+  -KarlOL82@github.com
   ## Summary
-  This project is projected to project itself as a projection
+  So many wordy words
   ## Installation
-  install by doing things certain ways
+  install
   ## Usage
-  use it wisely or foolishly
-  ## Licenses
-  MIT
+  use
+  ## License
+  ![License](https://img.shields.io/badge/license-%20BSD%202-green.svg), undefined, 
   
