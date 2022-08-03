@@ -2,14 +2,16 @@
   # Project
   
   ## Contact
-  -klinfeldt@gmail.com
+  -klinfeldt@gmail.com  
   -KarlOL82@github.com
   ## Summary
-  So many wordy words
+  This is most impressive.
   ## Installation
-  install
+  install the things
   ## Usage
-  use
+  use this thing
   ## License
-  ![License](https://img.shields.io/badge/license-%20BSD%202-green.svg), undefined, 
+  ![License](https://img.shields.io/badge/license-MIT-green.svg)  
+  undefined  
+  
   

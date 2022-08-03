@@ -40,8 +40,8 @@ function renderLicenseSection(license) {
  return "";
  else {
   return 
-  `## ${license}
-   \n "This appication is using license ${license}." 
+  `## ${answer.license}
+   \n "This application is using license ${license}." 
   `
 }
 };
@@ -52,7 +52,7 @@ function generateMarkdown(answer) {
   # ${answer.title}
   
   ## Contact
-  -${answer.email}
+  -${answer.email}  
   -${answer.github}
   ## Summary
   ${answer.description}
@@ -61,7 +61,9 @@ function generateMarkdown(answer) {
   ## Usage
   ${answer.usage}
   ## License
-  ${renderLicenseBadge(answer.license)}, ${renderLicenseSection(answer.license)}, ${renderLicenseLink(answer.section)}
+  ${renderLicenseBadge(answer.license)}  
+  ${renderLicenseLink(answer.section)}
+  ${renderLicenseSection(answer.license)}  
   `
 };
 

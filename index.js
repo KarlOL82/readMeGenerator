@@ -66,7 +66,7 @@ const questions = inquirer
 
 // // TODO: Create a function to write README file
 // function writeToFile(fileName, data) {}
-// const generateHTML = (answer) => {
+// const generateMarkdown = (answer) => {
 
 //     return`#${answer.title}
 //     ##${answer.contents}
