@@ -2,16 +2,20 @@
   # Project
   
   ## Contact
-  -klinfeldt@gmail.com  
-  -KarlOL82@github.com
+  -k.com  
+  -g.com
   ## Summary
-  This is most impressive.
+  Words
   ## Installation
-  install the things
+  Words
   ## Usage
-  use this thing
+  Words
   ## License
   ![License](https://img.shields.io/badge/license-MIT-green.svg)  
-  undefined  
   
+  
+  ## MIT
+   
+ "This application is using license MIT. 
+    
   
