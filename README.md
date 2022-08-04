@@ -1,4 +1,4 @@
-# readMeGenerator
+# README Generator
 A Javascript app that generates a README.md file based on user input.
 
 ## Developed By
