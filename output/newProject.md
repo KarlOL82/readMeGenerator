@@ -1,20 +1,32 @@
 
-  # project
+  # README Generator Demo
+
+
   ## Contents
   -Contact  
   -Overview  
   -Installation  
   -User Instructions  
-  -License(s)
+  -License(s)  
+
+
   ## Developer Contact
   -klinfeldt@gmail.com  
   -KarlOL82@github.com
+
+
   ## Summary
-  An application written in Javascript that generates a README.md file based on user input into Inquirer.
+  The user input to these inquirer prompts creates a markdown file that is displayed in a README.md format.
+
+
   ## Installation
-  A section for including installation instructions for the application.
+  The user can provide instructions to install their application here
+
+
   ## Usage
-  A section with instructions on running and initializing the application.
+  The user can provide instructions for running and initializing their application here.
+
+
   ## License
   ![License](https://img.shields.io/badge/license-MIT-green.svg)  
   https://opensource.org/licenses/MIT
