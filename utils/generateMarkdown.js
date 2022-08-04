@@ -50,8 +50,13 @@ function renderLicenseSection(license) {
 function generateMarkdown(answer) {
   return`
   # ${answer.title}
-  
-  ## Contact
+  ## Contents
+  -Contact  
+  -Overview  
+  -Installation  
+  -User Instructions  
+  -License(s)
+  ## Developer Contact
   -${answer.email}  
   -${answer.github}
   ## Summary
