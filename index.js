@@ -12,7 +12,7 @@ const questions = inquirer
       validate:(title) =>{
         if (title){
             return true;
-        }else{
+        }else {
             return "Please enter valid title";
         }
       }
@@ -57,25 +57,16 @@ const questions = inquirer
   .then((answer) => {
     const newFile = generateMarkdown(answer);
 
-    fs.writeFile("newProject.md", newFile, function (err) {
+    fs.writeFile("./output/newProject.md", newFile, function (err) {
       if (err) throw err;
       else console.log("success");
       console.log(answer);
     });
   });
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-// const generateMarkdown = (answer) => {
 
-//     return`#${answer.title}
-//     ##${answer.contents}
-//     ##${answer.description}
-//     ##${answer.install}
-//     ##${answer.usage}
-//     ##${answer.license}`
 
-// }
+
 // // TODO: Create a function to initialize app
 // function init() {
 
